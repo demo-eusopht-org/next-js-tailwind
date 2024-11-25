@@ -1,10 +1,10 @@
 <!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). -->
 
-## Tech Plus
+# Tech Plus
 
 Tech Plus is a Next.js project bootstrapped with create-next-app. It utilizes modern web development tools, including TailwindCSS and PostCSS and react-icons, to deliver a responsive and dynamic user experience.
 
-## Getting Started
+# Getting Started
 
 Follow these steps to get started with the project locally:
 
@@ -86,14 +86,14 @@ bun start
 ```
 
 
-## 🛠 Features
+# 🛠 Features
 
 - Modern Framework: Built with Next.js for server-side rendering and static site generation.
 - Styling: Integrated with TailwindCSS via PostCSS for rapid UI development.
 - Linting: Configured with ESLint for consistent and clean code.
 - Dynamic Icons: Uses react-icons for scalable vector icons.
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 /app              # Main application logic and pages
@@ -103,7 +103,7 @@ bun start
 .eslintrc.json    # ESLint configuration
 ```
 
-## ✨ Configuration
+# ✨ Configuration
 
 # ESLint
 
@@ -129,20 +129,20 @@ const config = {
 export default config;
 ```
 
-## 🧰 Dependencies
+# 🧰 Dependencies
 
 - Next.js: v15.0.3
 - React: v19.0.0 (RC)
 - React-DOM: v19.0.0 (RC)
 - React-Icons: v5.3.0
 
-## Dev Dependencies
+# Dev Dependencies
 
 - ESLint: v8.x
 - TailwindCSS: v3.4.1
 - PostCSS: v8.x
 
-## Learn More
+# Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -151,7 +151,7 @@ To learn more about Next.js, take a look at the following resources:
 - [TailwindCSS Documentation](https://tailwindcss.com/docs/installation)  - Understand the utility-first CSS framework.
 - [React Documentation](https://react.dev)  - Explore React features and concepts.
 
-## 🚢 Deployment
+# 🚢 Deployment
 
 The project can be deployed seamlessly using platforms like Vercel or Netlify.
 
