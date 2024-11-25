@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width:100vw;
+  height: 100vh;
+  overflow: auto;
+  font-family: var(--font-work-sans);
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+.button2{
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+
+  &:hover {
+    background-color: #0077B5;
+    transform: scale(1.05);
+  }
+}
+
+button{
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+
+  &:hover {
+    /* background-color: ##0077B5; */
+    /* color: white; */
+    transform: scale(1.05);
+  }
+}
