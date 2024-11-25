@@ -105,7 +105,7 @@ bun start
 
 # ✨ Configuration
 
-# ESLint
+## ESLint
 
 The project follows the Next.js core web vitals linting rules:
 
@@ -115,7 +115,7 @@ The project follows the Next.js core web vitals linting rules:
 }
 ```
 
-# PostCSS
+## PostCSS
 
 PostCSS is configured to use TailwindCSS:
 
